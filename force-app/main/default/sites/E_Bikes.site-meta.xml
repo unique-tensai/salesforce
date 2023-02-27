@@ -23,9 +23,9 @@
     <referrerPolicyOriginWhenCrossOrigin
     >true</referrerPolicyOriginWhenCrossOrigin>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
-    <siteAdmin>shashidharh@hexaware.com.tensaicicd</siteAdmin>
-    <siteGuestRecordDefaultOwner>shashidharh@hexaware.com.tensaicicd</siteGuestRecordDefaultOwner>
+    <siteAdmin>shashidharh@hexaware.com.hextensaitrialorg</siteAdmin>
+    <siteGuestRecordDefaultOwner>shashidharh@hexaware.com.hextensaitrialorg</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
-    <subdomain>hexawaretechnologies-a8-dev-ed.develop.my.site.com</subdomain>
+    <subdomain>https://hextensaitrialorg.my.salesforce.com</subdomain>
     <urlPathPrefix>ebikes</urlPathPrefix>
 </CustomSite>
